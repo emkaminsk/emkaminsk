@@ -2,4 +2,4 @@
 - 👀 I’m Product Owner in Sii Poland since August 2023.
 - 🌱 I’m passionate about AI and Python programming, I love classical music, learning foreign languages and watching chess.
 - 📫 How to reach me: emkaminsk at gmail.com
-- My [GitHub page with Vim manual in polish](https://emkaminsk.github.io/Sciaga_vim/manual_vim.html)
+- My [company website](https://www.mkkonsultant.com/) and [GitHub page with Vim manual in polish](https://emkaminsk.github.io/Sciaga_vim/manual_vim.html)
